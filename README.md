@@ -1,6 +1,6 @@
 # Ev3nts Frontend
 
-A React / Next.js frontend for the Ev3nts dApp. RainbowKit is used to support connecting multiple wallets. Web3.Storage is used to store some of the event data off-chain. Ether.js is used to interact with the Ev3nts backend/smart contract on the Polygon Mumbai test network.
+A React / Next.js frontend for the Ev3nts dApp. RainbowKit is used to support connecting multiple wallets. Web3.Storage is used to store some of the event data off-chain. Ether.js is used to interact with the Ev3nts backend/smart contract on the Polygon Mumbai test network. A subgraph API is used to query the contract for event data.
 
 &nbsp;
 
