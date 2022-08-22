@@ -32,4 +32,3 @@ export default function DashboardNav({ page }) {
     </nav>
   )
 }
-Footer
